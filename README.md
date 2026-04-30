@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
