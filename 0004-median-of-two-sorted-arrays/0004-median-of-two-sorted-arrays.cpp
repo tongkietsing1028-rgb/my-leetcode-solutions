@@ -21,7 +21,7 @@ public:
                 {
                     return (max(leftMaxA,leftMaxB)+min(rightMinA,rightMinB))/2.0;
                 }
-                return max(leftMaxA,leftMaxB);
+                else return max(leftMaxA,leftMaxB);
             }
             else if(leftMaxA>rightMinB)
             {
