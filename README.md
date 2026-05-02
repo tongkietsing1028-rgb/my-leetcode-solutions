@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
@@ -16,10 +17,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
