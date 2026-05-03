@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
