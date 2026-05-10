@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
@@ -21,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
