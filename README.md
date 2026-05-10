@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
@@ -89,6 +91,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
