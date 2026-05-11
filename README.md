@@ -14,6 +14,7 @@
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
