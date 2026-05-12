@@ -82,6 +82,7 @@
 | [0009-palindrome-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
