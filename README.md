@@ -16,6 +16,7 @@
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
+| [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
