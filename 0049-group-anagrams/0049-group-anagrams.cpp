@@ -3,15 +3,18 @@ public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         unordered_map<string,vector<string>>mp;
         vector<vector<string>>ans;
-        int n = strs.size();
-        for(int i =0;i<n;i++)
+        for(string&s:strs)
         {
-           string y = strs[i];
-           sort(y.begin(),y.end());
-           mp[y].push_back(strs[i]);
+            string key(26,0);
+            for(char c: s)
+            {
+                int n = c - 'a';
+                key[n]++;
+            }
+            mp[key].push_back(s);
         }
-        ans.reserve(mp.size());
-        for(auto &k:mp)
+        mp.reserve(mp.size());
+        for(auto& k :mp)
         {
             ans.push_back(k.second);
         }
