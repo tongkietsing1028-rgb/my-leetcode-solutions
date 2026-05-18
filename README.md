@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
@@ -50,6 +52,7 @@
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -105,6 +108,7 @@
 | [0012-integer-to-roman](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
