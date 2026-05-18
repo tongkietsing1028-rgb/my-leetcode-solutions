@@ -10,6 +10,7 @@ public:
            sort(y.begin(),y.end());
            mp[y].push_back(strs[i]);
         }
+        ans.reserve(mp.size());
         for(auto &k:mp)
         {
             ans.push_back(k.second);
