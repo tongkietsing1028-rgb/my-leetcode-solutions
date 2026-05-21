@@ -18,6 +18,7 @@ public:
                 if(mp.count(v))
                 {
                     ans = max(ans,v);
+                    break;
                 }
                 v /= 10;
             }
