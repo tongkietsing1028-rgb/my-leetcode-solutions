@@ -20,6 +20,7 @@
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -150,6 +151,7 @@
 | [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
