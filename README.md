@@ -110,6 +110,7 @@
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
@@ -152,6 +153,7 @@
 | [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
