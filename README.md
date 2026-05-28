@@ -41,6 +41,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
 | ------- |
