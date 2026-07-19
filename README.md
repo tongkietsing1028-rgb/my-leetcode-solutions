@@ -122,6 +122,7 @@
 | [0012-integer-to-roman](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
