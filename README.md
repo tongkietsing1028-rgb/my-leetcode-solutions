@@ -14,6 +14,7 @@
 | [0036-valid-sudoku](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
