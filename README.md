@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0506-relative-ranks) |
 | [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## String Matching
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | [0070-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0343-integer-break) |
+| [0435-non-overlapping-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
