@@ -14,6 +14,7 @@
 | [0036-valid-sudoku](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -39,6 +40,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
