@@ -51,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
