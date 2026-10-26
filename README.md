@@ -142,6 +142,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -153,6 +154,7 @@
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
