@@ -1,6 +1,20 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        remove_char = string.punctuation + " "
-        text = s.translate(str.maketrans("","",remove_char))
-        text_ = text[::-1]
-        return text.lower() == text_.lower()
+       head = 0
+       tail = len(s)-1
+       while tail > head:
+          if not s[head].isalnum():
+             head += 1
+             continue
+          if not s[tail].isalnum():
+              tail -= 1
+              continue
+        
+          if s[head].lower() != s[tail].lower():
+              return False
+
+          head += 1
+          tail -= 1
+          
+      
+       return True
