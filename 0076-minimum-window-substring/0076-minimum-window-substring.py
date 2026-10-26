@@ -1,5 +1,7 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        if t == "":
+            return ""
         count_s={}
         count_t=Counter(t)
         left = 0
