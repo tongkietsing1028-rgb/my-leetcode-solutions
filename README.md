@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -156,6 +157,7 @@
 | [0015-3sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
@@ -179,6 +181,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -226,6 +229,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -246,4 +250,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0056-merge-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
