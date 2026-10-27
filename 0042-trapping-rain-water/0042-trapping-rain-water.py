@@ -1,27 +1,23 @@
 class Solution:
     def trap(self, height: list[int]) -> int:
-        n=len(height)
-        pre_heightest=[0 for _ in range(n)]
-        suf_heightest=[0 for _ in range(n)]
-        water =0
+       left = 0
+       right = len(height)-1
+       water=0
+       
+       left_max = 0
+       right_max =0
+       
+       while right > left:
+         if height[left]<height[right]:
+            left_max=max(left_max,height[left])
+            water += left_max - height[left]
+            left+=1
+         else:
+            right_max = max(right_max,height[right])
+            water += right_max - height[right]
+            right -= 1
+       return water 
+           
         
-        for i in range(n):
-            if i == 0:
-             pre_heightest[i]=height[i]
-             continue
-            pre_heightest[i]=max(height[i], pre_heightest[i-1])
-        
-        for j in range(n-1,-1,-1):
-            if j == n-1:
-                suf_heightest[j] = height[j]
-                continue
-            suf_heightest[j]=max(height[j],suf_heightest[j+1])
-            
-        for i in range(n):
-            water += min(pre_heightest[i],suf_heightest[i])-height[i]
-
-        return water
-
-
 
         
