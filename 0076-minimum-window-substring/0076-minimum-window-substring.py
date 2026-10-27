@@ -1,31 +1,34 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if t == "":
-            return ""
-        count_s={}
-        count_t=Counter(t)
-        left = 0
+        counter_t = Counter(t)
+        counter_s={}
+
         have=0
-        need=len(count_t)
-        lenght = float('inf')
-        result = ''
+        need=len(counter_t)
+
+        min_lenght = float('inf')
+
+        result=''
+        left =0
         for right in range(len(s)):
-            char = s[right]
-            count_s[char]=count_s.get(char,0)+1
-            if char in count_t and count_s[char]==count_t[char]:
-                have+=1
-            while need == have:
-                temp = right - left +1
-                if temp < lenght:
-                    lenght = temp
+            char=s[right]
+            counter_s[char]=counter_s.get(char,0)+1
+            if  char in counter_t and counter_s[char] == counter_t[char]:
+                have +=1
+            while have == need:
+                lenght = right - left + 1
+                if lenght< min_lenght:
+                    min_lenght = lenght
                     result = s[left:right+1]
                 left_char = s[left]
-                count_s[left_char]-=1
-               
-                if left_char in count_t and count_s[left_char]<count_t[left_char]:
-                    have -= 1
+                if left_char in counter_t and counter_t[left_char]==counter_s[left_char]:
+                   have -= 1
+                
+                counter_s[left_char] -=1
                 left += 1
+
         return result
+
                 
             
 
