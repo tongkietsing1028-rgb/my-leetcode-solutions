@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -268,4 +270,9 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tongkietsing1028-rgb/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
